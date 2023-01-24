@@ -1,5 +1,7 @@
 body{
     background-color: rgb(106, 106, 106);
+    background-image: ;
+    background-attachment: fixed;
 }
 p{
     font-size: 55px;
@@ -32,11 +34,6 @@ h1{
     width:27%;
     top: 20%;
     left:0.5%;
-}
-.film{
-    width: 80%;
-    height: 30%;
-    position: absolute
 }
 a1:hover{
     color: rgb(58, 58, 58);

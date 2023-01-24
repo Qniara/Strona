@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(106, 106, 106);
+}
+p{
+    font-size: 55px;
+    font-family: 'Times New Roman';
+    color:white;
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(202, 202, 202);
+    background-color:#000000;
+    position: absolute;
+    top:5%;
+    width:100%;
+}
+section{
+    background-color: black;
+    width:30%;
+    display: inline-block;
+    top: 40%;
+}
+h2{
+    font-family: 'Times New Roman';
+    color:white;
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(202, 202, 202);
+}
+h1{
+    font-family: 'Times New Roman';
+    color:white;
+    text-shadow:5px 5px 5px rgb(202, 202, 202);
+    background-color:rgb(75, 75, 75);
+    width:27%;
+    top: 20%;
+    left:0.5%;
+}
+.film{
+    width: 80%;
+    height: 30%;
+    position: absolute
+}
+a1:hover{
+    color: rgb(58, 58, 58);
+}
+a2:hover{
+    color: rgb(58, 58, 58);
+}
+a3:hover{
+    color: rgb(58, 58, 58);
+}

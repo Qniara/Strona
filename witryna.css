@@ -1,6 +1,6 @@
 body{
     background-color: rgb(106, 106, 106);
-    background-image: ;
+    background-image: url(a.png);
     background-attachment: fixed;
 }
 p{
@@ -10,15 +10,12 @@ p{
     text-align: center;
     text-shadow:5px 5px 5px rgb(202, 202, 202);
     background-color:#000000;
-    position: absolute;
-    top:5%;
     width:100%;
 }
 section{
     background-color: black;
     width:30%;
     display: inline-block;
-    top: 40%;
 }
 h2{
     font-family: 'Times New Roman';
@@ -32,8 +29,6 @@ h1{
     text-shadow:5px 5px 5px rgb(202, 202, 202);
     background-color:rgb(75, 75, 75);
     width:27%;
-    top: 20%;
-    left:0.5%;
 }
 a1:hover{
     color: rgb(58, 58, 58);

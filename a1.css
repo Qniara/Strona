@@ -14,10 +14,24 @@ p{
     width:100%;
 }
 h1{
-    font-size: 30px;
+    font-size: 25px;
     font-family: 'Times New Roman';
     text-align: justify;
-    width:100%;
     color:black;
-    background-color: rgba(255, 239, 220, 0.425);
+    background-color: rgba(255, 239, 220, 0.39);
+    width:90%;
+}
+
+img{
+    border-radius: 30%;
+    border-color: black;
+    border:5px solid #000;
+}
+h2{
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    text-align: justify;
+    color:black;
+    background-color: rgba(255, 239, 220, 0.632);
+    width:28%;
 }

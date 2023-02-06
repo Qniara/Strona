@@ -1,5 +1,5 @@
 body{
-    background-image: url(pogrom.png);
+    background-image: url(a_tlo.png);
     background-size: 100%;
     color:rgb(106,106,106);
     background-attachment: fixed;
@@ -19,13 +19,13 @@ h1{
     text-align: justify;
     color:black;
     background-color: rgba(255, 239, 220, 0.39);
-    width:90%;
 }
 
 img{
     border-radius: 30%;
     border-color: black;
     border:5px solid #000;
+    width:90%;
 }
 h2{
     font-size: 40px;
@@ -34,4 +34,21 @@ h2{
     color:black;
     background-color: rgba(255, 239, 220, 0.632);
     width:28%;
+}
+h3{
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    color:black;
+    background-color: rgba(255, 239, 220, 0.632);
+    width:75%;
+}
+h4{
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    text-align: justify;
+    color:black;
+    background-color: rgba(255, 239, 220, 0.39);
+    width:75%;
+    direction: right;
 }

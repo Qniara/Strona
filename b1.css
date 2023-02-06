@@ -13,9 +13,27 @@ body{
     background-size:100%;
 }
 h1{
-    font-size: 25px;
+    font-size: 27px;
     font-family: 'Times New Roman';
     text-align: justify;
     color:black;
     background-color: rgba(255, 239, 220, 0.436);
+    width:100%;
+}
+img{
+    border-color: black;
+    border:5px solid #000;
+    width: 100%;
+}
+h2{
+    font-size: 27px;
+    font-family: 'Times New Roman';
+    text-align: justify;
+    color:black;
+    background-color: rgba(255, 239, 220, 0.436);
+    width:95%;
+}
+div{
+    width:50%;
+    margin:0 auto;
 }

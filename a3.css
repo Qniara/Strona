@@ -22,7 +22,7 @@ h1{
 img{
     border-color: black;
     border:5px solid #000;
-    width:40%;
+    width:49%;
     height: 550px;
 }
 h2{
@@ -31,5 +31,5 @@ h2{
     text-align: left;
     color:black;
     background-color: rgba(255, 239, 220, 0.632);
-    width:45%;
+    width:7%;
 }

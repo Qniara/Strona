@@ -30,15 +30,15 @@ h1{
     font-family: 'Times New Roman';
     color:white;
     background-color:rgb(75, 75, 75);
-    width:30%;
-    font-size:35px;
+    width:45%;
+    font-size:28px;
 }
 h3{
     font-family: 'Times New Roman';
     color:white;
     background-color:rgb(75, 75, 75);
     width:45%;
-    font-size:35px;
+    font-size:28px;
 }
 section:hover{
     background-color: rgb(58, 58, 58);
@@ -48,7 +48,7 @@ h4{
     font-family: 'Times New Roman';
     color:white;
     background-color:rgba(58, 58, 58, 0.326);
-    font-size:23px;
+    font-size:19px;
 }
 h5{
     font-size: 17px;
